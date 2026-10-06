@@ -1,0 +1,8 @@
+# Agent and IDE directories
+.agents/
+.vscode/
+
+# System and temporary files
+*.tmp
+*.log
+.DS_Store
